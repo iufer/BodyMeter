@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'BodyMeter' target in the 'BodyMeter' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
